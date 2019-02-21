@@ -1,0 +1,6 @@
+framework module ios_specFile {
+  umbrella header "ios_specFile-umbrella.h"
+
+  export *
+  module * { export * }
+}

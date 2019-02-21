@@ -1,0 +1,16 @@
+PODS:
+  - ios_specFile (1.0.1)
+
+DEPENDENCIES:
+  - ios_specFile (from `~/Documents/Classes/ios_specFile`)
+
+EXTERNAL SOURCES:
+  ios_specFile:
+    :path: "~/Documents/Classes/ios_specFile"
+
+SPEC CHECKSUMS:
+  ios_specFile: 274804090770936a35e21f34df5d4039b8c65f0e
+
+PODFILE CHECKSUM: d4cb751df54f028d3ab9a0f2bcb39836bbdf1eff
+
+COCOAPODS: 1.5.3

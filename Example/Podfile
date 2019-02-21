@@ -1,13 +1,10 @@
+platform :ios, '7.0'
 use_frameworks!
 
-platform :ios, '8.0'
+source 'https://github.com/ajayempty/ios_specFile.git'
 
 target 'ios_specFile_Example' do
-  pod 'ios_specFile', :path => '../'
-
-  target 'ios_specFile_Tests' do
-    inherit! :search_paths
-
-    
-  end
+  pod 'ios_specFile', :path => '~/Documents/Classes/ios_specFile'
+end
+target 'ios_specFile_Tests' do
 end
