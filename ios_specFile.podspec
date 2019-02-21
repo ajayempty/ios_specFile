@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = 'ios_specFile'
-s.version          = '1.0.1'
+s.version          = '1.0.0'
 s.summary          = 'Testing ios specFile'
 
 s.description      = <<-DESC
