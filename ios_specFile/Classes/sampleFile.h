@@ -6,7 +6,6 @@
 //
 
 #import <UIKit/UIKit.h>
-
 @interface sampleFile : UIView
 
 @end

@@ -4,7 +4,7 @@ use_frameworks!
 source 'https://github.com/ajayempty/ios_specFile.git'
 
 target 'ios_specFile_Example' do
-  pod 'ios_specFile', :path => '~/Documents/Classes/ios_specFile'
+  pod 'ios_specFile', :path => '../'
 end
 target 'ios_specFile_Tests' do
 end

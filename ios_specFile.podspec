@@ -1,10 +1,10 @@
 Pod::Spec.new do |s|
 s.name             = 'ios_specFile'
 s.version          = '0.0.1'
-s.summary          = 'Testing ios specFile'
+s.summary          = 'A testing files just'
 
 s.description      = <<-DESC
-A made for this pod file is a sample for the testing perpose.
+This pod file only for just testing prepose not contains any files in that.
 DESC
 
 s.homepage         = 'https://github.com/ajayempty/ios_specFile'
